@@ -1,0 +1,4 @@
+﻿https://msdn.microsoft.com/en-us/library/3707x96z(v=vs.90).aspx //csc use
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/compiler-options/command-line-building-with-csc-exe
+https://docs.microsoft.com/en-us/dotnet/framework/tools/developer-command-prompt-for-vs //command prompt in VS setup
+
